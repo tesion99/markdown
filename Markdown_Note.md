@@ -149,6 +149,4 @@ Markdown使用\*和 _ 作为强调字词的符号
 Markdown使用反斜杠转义具有特殊功能的markdown符号
 ***
 参考链接
-[Markdown语法说明][id]
-
-[id]: http://wowubuntu.com/markdown/#list "中文简体"
+[Markdown语法说明](http://wowubuntu.com/markdown/#list "中文简体")
